@@ -7,11 +7,14 @@
   NextJS Blog Starter With MUI Side Menu and App Bar
 </h1>
 
+To see the blog in action and for more information on setup, visit the blog [411 Tech Info](https://www.411tech.info/) under the "This Tool" heading.
+
+The information below is from the blog. The pictures don't render in the Github readme file below, but do show properly on the blog because they use a relative address to pull the images.
+
 ## About
 
 This application is a NextJS Application for creating blogs with a Materiaul UI Side Menu and AppBar. It allows the user to focus on creation of content. It is based on Kendall Strautman's Brevifolia minimal start blog.
 
-To see the blog in action and for more information on setup, visit the blog [411 Tech Info](https://www.411tech.info/) under the "This Tool" heading.
 
 ## Quick Setup
 
